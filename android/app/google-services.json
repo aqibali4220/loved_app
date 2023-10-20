@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802718859265",
+    "project_id": "find-your-loved-one-s",
+    "storage_bucket": "find-your-loved-one-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802718859265:android:389284e9cb47f1e59b4000",
+        "android_client_info": {
+          "package_name": "com.flutter.loved_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802718859265-5js1u7ln8bhhrmmqscektla05pkliqf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHYug52GSdEP1JnLD9GwFzrqwP2y8ZOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802718859265-5js1u7ln8bhhrmmqscektla05pkliqf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
